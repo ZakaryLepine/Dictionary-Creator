@@ -5,7 +5,7 @@ Academic project for Introduction to Object-Oriented Programming II
 
 Created with the intention of enhancing knowledge on input/output streams and exception handling in Java
 
-GUI was created as an extra-curricular activity to learn the Swing framework
+GUI was created as an extra-curricular activity to familiarize myself with the Swing framework
 
 ## REQUIRED
 
