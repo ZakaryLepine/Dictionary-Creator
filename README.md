@@ -1,4 +1,4 @@
-# DictionaryCreator
+# Dictionary Creator
 Java Swing application which creates a .txt dictionary from a .txt input file
 
 Academic project for Introduction to Object-Oriented Programming II
